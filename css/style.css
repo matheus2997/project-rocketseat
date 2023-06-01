@@ -9,11 +9,11 @@
   --border-list: rgba(255, 255, 255, 0.5);
   --bg-hover-list: rgba(255, 255, 255, 0.05);
   --light-color: black;
-  --bg-light: url(/img/bg-desktop-light.jpg);
+  --bg-light: url(./bg-desktop-light.jpg);
 }
 
 body{
-  background-image: url(/img/bg-desktop-dark.jpg);
+  background-image: url(./bg-desktop-dark.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;

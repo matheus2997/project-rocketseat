@@ -13,15 +13,8 @@ Sobre a aplicação pratica do projeto: para adquirir e melhorar meu nível de c
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+![image](https://github.com/matheus2997/project-rocketseat/assets/127162613/c2d06983-60a6-41ab-a373-a4e8ac767bea)
 
-<br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -48,6 +41,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
+
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

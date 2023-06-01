@@ -9,11 +9,11 @@
   --border-list: rgba(255, 255, 255, 0.5);
   --bg-hover-list: rgba(255, 255, 255, 0.05);
   --light-color: black;
-  --bg-light: url(/img/bg-desktop-light\ \(1920x1080\).jpg);
+  --bg-light: url(/img/bg-desktop-light.jpg);
 }
 
-[data-theme="dark"] body{
-  background: url(/img/bg-desktop-dark\ \(1920x1080\).jpg) no-repeat center fixed;
+body{
+  background: url(/img/bg-desktop-dark.jpg) no-repeat center fixed;
   background-size: cover;
   font-family: 'Inter', sans-serif;
   color: var(--text-color);

@@ -12,7 +12,7 @@
   --bg-light: url(/img/bg-desktop-light\ \(1920x1080\).jpg);
 }
 
-body{
+[data-theme="dark"] body{
   background: url(/img/bg-desktop-dark\ \(1920x1080\).jpg) no-repeat center fixed;
   background-size: cover;
   font-family: 'Inter', sans-serif;

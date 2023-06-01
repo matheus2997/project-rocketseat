@@ -5,8 +5,7 @@
 }
 :root {
   --text-color: white;
-  --bg-dark: url(/img/bg-desktop-dark\ \(1920x1080\).jpg);
-  --bg-list: rgba(255, 255, 255, 0.1);
+  --bg-list: rgba(8, 8, 8, 0.1);
   --border-list: rgba(255, 255, 255, 0.5);
   --bg-hover-list: rgba(255, 255, 255, 0.05);
   --light-color: black;
@@ -14,7 +13,7 @@
 }
 
 body{
-  background: var(--bg-dark) no-repeat center fixed;
+  background: url(/img/bg-desktop-dark\ \(1920x1080\).jpg) no-repeat center fixed;
   background-size: cover;
   font-family: 'Inter', sans-serif;
   color: var(--text-color);

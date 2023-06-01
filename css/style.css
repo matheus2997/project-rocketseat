@@ -13,7 +13,9 @@
 }
 
 body{
-  background: url(/img/bg-desktop-dark.jpg) no-repeat center;
+  background: url(/img/bg-desktop-dark.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
   background-attachment: fixed;
   background-size: cover;
   font-family: 'Inter', sans-serif;
